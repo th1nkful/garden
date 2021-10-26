@@ -1,12 +1,11 @@
-name: Jacky Zhao
+name: th1nkful
 enableToc: true
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  developer, dad, all round nerd
 page_title:
-  Quartz Example Page
+  thinkful_garden
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+  - link_name: twitter
+    link: https://twitter.com/th1nkful
+  - link_name: github
+    link: https://github.com/th1nkful
